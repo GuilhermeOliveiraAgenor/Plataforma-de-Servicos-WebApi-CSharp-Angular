@@ -67,7 +67,7 @@ Siga os passos abaixo para que esse projeto seja executado
 1 - Clone o repositório abaixo e o abra com o Visual Studio ou Visual Studio Code
 
 ```
-git clone https://github.com/Kemuel-Batista/projeto_desenvolvimento_software_visual.git
+git clone https://github.com/GuilhermeOliveiraAgenor/Plataforma-de-Servicos-WebApi-CSharp-Angular.git
 ```
 
 2 - Crie um novo banco de dados com o POSTGRES e edite o arquivo DB/ConnectionContext
